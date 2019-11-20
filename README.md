@@ -1,0 +1,2 @@
+# FYSegment_up
+一款Segment，支持点击与手势滑动切换栏目，只需传入栏目名数组与显示的View数组即可
